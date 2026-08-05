@@ -1,2 +1,3 @@
-# Java-Code
-Collection of Java programs demonstrating Object-Oriented Programming concepts.
+OOP Java 
+
+This repository contains my Java Object-Oriented Programming (OOP) practice programs created while learning OOP concepts.
